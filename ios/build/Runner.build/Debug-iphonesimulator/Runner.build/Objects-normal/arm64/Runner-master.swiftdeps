@@ -1,0 +1,6 @@
+version: "Apple Swift version 5.6.1 (swiftlang-5.6.0.323.66 clang-1316.0.20.12)"
+options: "b073fce7ca37fff5bd53ab10dc5c85d32609b22938aa2267ce1c10ac39cd12f5"
+build_start_time: [1672905645, 55742979]
+build_end_time: [1672905645, 618628978]
+inputs:
+  "/Users/alfredcarro/Workspace/Personal/ModernLoginUI-main/ios/Runner/AppDelegate.swift": [1670815764, 0]

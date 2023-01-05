@@ -1,0 +1,45 @@
+dependencies: \
+  /Users/alfredcarro/Workspace/Personal/ModernLoginUI-main/ios/Pods/gRPC-Core/src/core/lib/address_utils/sockaddr_utils.cc \
+  /Users/alfredcarro/Workspace/Personal/ModernLoginUI-main/ios/Pods/Target\ Support\ Files/gRPC-Core/gRPC-Core-prefix.pch \
+  /Users/alfredcarro/Workspace/Personal/ModernLoginUI-main/ios/Pods/gRPC-Core/include/grpc/support/port_platform.h \
+  /Users/alfredcarro/Workspace/Personal/ModernLoginUI-main/ios/Pods/gRPC-Core/include/grpc/impl/codegen/port_platform.h \
+  /Users/alfredcarro/Workspace/Personal/ModernLoginUI-main/ios/Pods/gRPC-Core/src/core/lib/address_utils/sockaddr_utils.h \
+  /Users/alfredcarro/Workspace/Personal/ModernLoginUI-main/ios/Pods/gRPC-Core/src/core/lib/iomgr/resolved_address.h \
+  /Users/alfredcarro/Workspace/Personal/ModernLoginUI-main/ios/Pods/gRPC-Core/src/core/lib/iomgr/port.h \
+  /Users/alfredcarro/Workspace/Personal/ModernLoginUI-main/build/ios/Debug-iphonesimulator/abseil/absl.framework/Headers/strings/str_cat.h \
+  /Users/alfredcarro/Workspace/Personal/ModernLoginUI-main/build/ios/Debug-iphonesimulator/abseil/absl.framework/Headers/base/port.h \
+  /Users/alfredcarro/Workspace/Personal/ModernLoginUI-main/build/ios/Debug-iphonesimulator/abseil/absl.framework/Headers/base/attributes.h \
+  /Users/alfredcarro/Workspace/Personal/ModernLoginUI-main/build/ios/Debug-iphonesimulator/abseil/absl.framework/Headers/base/config.h \
+  /Users/alfredcarro/Workspace/Personal/ModernLoginUI-main/build/ios/Debug-iphonesimulator/abseil/absl.framework/Headers/base/options.h \
+  /Users/alfredcarro/Workspace/Personal/ModernLoginUI-main/build/ios/Debug-iphonesimulator/abseil/absl.framework/Headers/base/policy_checks.h \
+  /Users/alfredcarro/Workspace/Personal/ModernLoginUI-main/build/ios/Debug-iphonesimulator/abseil/absl.framework/Headers/base/optimization.h \
+  /Users/alfredcarro/Workspace/Personal/ModernLoginUI-main/build/ios/Debug-iphonesimulator/abseil/absl.framework/Headers/strings/numbers.h \
+  /Users/alfredcarro/Workspace/Personal/ModernLoginUI-main/build/ios/Debug-iphonesimulator/abseil/absl.framework/Headers/base/macros.h \
+  /Users/alfredcarro/Workspace/Personal/ModernLoginUI-main/build/ios/Debug-iphonesimulator/abseil/absl.framework/Headers/numeric/bits.h \
+  /Users/alfredcarro/Workspace/Personal/ModernLoginUI-main/build/ios/Debug-iphonesimulator/abseil/absl.framework/Headers/numeric/internal/bits.h \
+  /Users/alfredcarro/Workspace/Personal/ModernLoginUI-main/build/ios/Debug-iphonesimulator/abseil/absl.framework/Headers/numeric/int128.h \
+  /Users/alfredcarro/Workspace/Personal/ModernLoginUI-main/build/ios/Debug-iphonesimulator/abseil/absl.framework/Headers/numeric/int128_no_intrinsic.inc \
+  /Users/alfredcarro/Workspace/Personal/ModernLoginUI-main/build/ios/Debug-iphonesimulator/abseil/absl.framework/Headers/strings/string_view.h \
+  /Users/alfredcarro/Workspace/Personal/ModernLoginUI-main/build/ios/Debug-iphonesimulator/abseil/absl.framework/Headers/base/internal/throw_delegate.h \
+  /Users/alfredcarro/Workspace/Personal/ModernLoginUI-main/build/ios/Debug-iphonesimulator/abseil/absl.framework/Headers/strings/str_format.h \
+  /Users/alfredcarro/Workspace/Personal/ModernLoginUI-main/build/ios/Debug-iphonesimulator/abseil/absl.framework/Headers/strings/internal/str_format/arg.h \
+  /Users/alfredcarro/Workspace/Personal/ModernLoginUI-main/build/ios/Debug-iphonesimulator/abseil/absl.framework/Headers/meta/type_traits.h \
+  /Users/alfredcarro/Workspace/Personal/ModernLoginUI-main/build/ios/Debug-iphonesimulator/abseil/absl.framework/Headers/strings/internal/str_format/extension.h \
+  /Users/alfredcarro/Workspace/Personal/ModernLoginUI-main/build/ios/Debug-iphonesimulator/abseil/absl.framework/Headers/strings/internal/str_format/output.h \
+  /Users/alfredcarro/Workspace/Personal/ModernLoginUI-main/build/ios/Debug-iphonesimulator/abseil/absl.framework/Headers/strings/internal/str_format/bind.h \
+  /Users/alfredcarro/Workspace/Personal/ModernLoginUI-main/build/ios/Debug-iphonesimulator/abseil/absl.framework/Headers/strings/internal/str_format/checker.h \
+  /Users/alfredcarro/Workspace/Personal/ModernLoginUI-main/build/ios/Debug-iphonesimulator/abseil/absl.framework/Headers/strings/internal/str_format/parser.h \
+  /Users/alfredcarro/Workspace/Personal/ModernLoginUI-main/build/ios/Debug-iphonesimulator/abseil/absl.framework/Headers/types/span.h \
+  /Users/alfredcarro/Workspace/Personal/ModernLoginUI-main/build/ios/Debug-iphonesimulator/abseil/absl.framework/Headers/types/internal/span.h \
+  /Users/alfredcarro/Workspace/Personal/ModernLoginUI-main/build/ios/Debug-iphonesimulator/abseil/absl.framework/Headers/algorithm/algorithm.h \
+  /Users/alfredcarro/Workspace/Personal/ModernLoginUI-main/ios/Pods/gRPC-Core/include/grpc/support/alloc.h \
+  /Users/alfredcarro/Workspace/Personal/ModernLoginUI-main/ios/Pods/gRPC-Core/include/grpc/support/log.h \
+  /Users/alfredcarro/Workspace/Personal/ModernLoginUI-main/ios/Pods/gRPC-Core/include/grpc/impl/codegen/log.h \
+  /Users/alfredcarro/Workspace/Personal/ModernLoginUI-main/ios/Pods/gRPC-Core/src/core/lib/gpr/string.h \
+  /Users/alfredcarro/Workspace/Personal/ModernLoginUI-main/ios/Pods/gRPC-Core/include/grpc/impl/codegen/gpr_types.h \
+  /Users/alfredcarro/Workspace/Personal/ModernLoginUI-main/ios/Pods/gRPC-Core/src/core/lib/gprpp/host_port.h \
+  /Users/alfredcarro/Workspace/Personal/ModernLoginUI-main/ios/Pods/gRPC-Core/src/core/lib/iomgr/sockaddr.h \
+  /Users/alfredcarro/Workspace/Personal/ModernLoginUI-main/ios/Pods/gRPC-Core/src/core/lib/event_engine/sockaddr.h \
+  /Users/alfredcarro/Workspace/Personal/ModernLoginUI-main/ios/Pods/gRPC-Core/src/core/lib/iomgr/sockaddr_posix.h \
+  /Users/alfredcarro/Workspace/Personal/ModernLoginUI-main/ios/Pods/gRPC-Core/src/core/lib/iomgr/sockaddr_windows.h \
+  /Users/alfredcarro/Workspace/Personal/ModernLoginUI-main/ios/Pods/gRPC-Core/src/core/lib/iomgr/socket_utils.h

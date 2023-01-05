@@ -1,0 +1,25 @@
+dependencies: \
+  /Users/alfredcarro/Workspace/Personal/ModernLoginUI-main/ios/Pods/FirebaseFirestore/Firestore/core/src/core/filter.cc \
+  /Users/alfredcarro/Workspace/Personal/ModernLoginUI-main/ios/Pods/FirebaseFirestore/Firestore/core/src/core/filter.h \
+  /Users/alfredcarro/Workspace/Personal/ModernLoginUI-main/ios/Pods/FirebaseFirestore/Firestore/core/src/model/model_fwd.h \
+  /Users/alfredcarro/Workspace/Personal/ModernLoginUI-main/ios/Pods/FirebaseFirestore/Firestore/Protos/nanopb/google/firestore/v1/document.nanopb.h \
+  /Users/alfredcarro/Workspace/Personal/ModernLoginUI-main/ios/Pods/nanopb/pb.h \
+  /Users/alfredcarro/Workspace/Personal/ModernLoginUI-main/ios/Pods/FirebaseFirestore/Firestore/Protos/nanopb/google/protobuf/struct.nanopb.h \
+  /Users/alfredcarro/Workspace/Personal/ModernLoginUI-main/ios/Pods/FirebaseFirestore/Firestore/Protos/nanopb/google/protobuf/timestamp.nanopb.h \
+  /Users/alfredcarro/Workspace/Personal/ModernLoginUI-main/ios/Pods/FirebaseFirestore/Firestore/Protos/nanopb/google/type/latlng.nanopb.h \
+  /Users/alfredcarro/Workspace/Personal/ModernLoginUI-main/build/ios/Debug-iphonesimulator/abseil/absl.framework/Headers/types/optional.h \
+  /Users/alfredcarro/Workspace/Personal/ModernLoginUI-main/build/ios/Debug-iphonesimulator/abseil/absl.framework/Headers/base/config.h \
+  /Users/alfredcarro/Workspace/Personal/ModernLoginUI-main/build/ios/Debug-iphonesimulator/abseil/absl.framework/Headers/base/options.h \
+  /Users/alfredcarro/Workspace/Personal/ModernLoginUI-main/build/ios/Debug-iphonesimulator/abseil/absl.framework/Headers/base/policy_checks.h \
+  /Users/alfredcarro/Workspace/Personal/ModernLoginUI-main/build/ios/Debug-iphonesimulator/abseil/absl.framework/Headers/utility/utility.h \
+  /Users/alfredcarro/Workspace/Personal/ModernLoginUI-main/build/ios/Debug-iphonesimulator/abseil/absl.framework/Headers/base/internal/inline_variable.h \
+  /Users/alfredcarro/Workspace/Personal/ModernLoginUI-main/build/ios/Debug-iphonesimulator/abseil/absl.framework/Headers/base/internal/identity.h \
+  /Users/alfredcarro/Workspace/Personal/ModernLoginUI-main/build/ios/Debug-iphonesimulator/abseil/absl.framework/Headers/base/internal/invoke.h \
+  /Users/alfredcarro/Workspace/Personal/ModernLoginUI-main/build/ios/Debug-iphonesimulator/abseil/absl.framework/Headers/meta/type_traits.h \
+  /Users/alfredcarro/Workspace/Personal/ModernLoginUI-main/build/ios/Debug-iphonesimulator/abseil/absl.framework/Headers/base/attributes.h \
+  /Users/alfredcarro/Workspace/Personal/ModernLoginUI-main/build/ios/Debug-iphonesimulator/abseil/absl.framework/Headers/types/bad_optional_access.h \
+  /Users/alfredcarro/Workspace/Personal/ModernLoginUI-main/build/ios/Debug-iphonesimulator/abseil/absl.framework/Headers/types/internal/optional.h \
+  /Users/alfredcarro/Workspace/Personal/ModernLoginUI-main/build/ios/Debug-iphonesimulator/abseil/absl.framework/Headers/memory/memory.h \
+  /Users/alfredcarro/Workspace/Personal/ModernLoginUI-main/build/ios/Debug-iphonesimulator/abseil/absl.framework/Headers/base/macros.h \
+  /Users/alfredcarro/Workspace/Personal/ModernLoginUI-main/build/ios/Debug-iphonesimulator/abseil/absl.framework/Headers/base/optimization.h \
+  /Users/alfredcarro/Workspace/Personal/ModernLoginUI-main/build/ios/Debug-iphonesimulator/abseil/absl.framework/Headers/base/port.h

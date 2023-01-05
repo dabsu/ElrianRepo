@@ -1,0 +1,27 @@
+version: "Apple Swift version 5.6.1 (swiftlang-5.6.0.323.66 clang-1316.0.20.12)"
+options: "770f1554c2c735f91716dab5a25cd24e557de89cbd88c3c88debee899be14c50"
+build_start_time: [1672668590, 352432966]
+build_end_time: [1672668596, 528166055]
+inputs:
+  ? "/Users/alfredcarro/Workspace/Personal/ModernLoginUI-main/ios/Pods/FirebaseCoreInternal/FirebaseCore/Internal/Sources/HeartbeatLogging/Heartbeat.swift"
+  : [1672664021, 400894165]
+  ? "/Users/alfredcarro/Workspace/Personal/ModernLoginUI-main/ios/Pods/FirebaseCoreInternal/FirebaseCore/Internal/Sources/HeartbeatLogging/HeartbeatController.swift"
+  : [1672664021, 401148796]
+  ? "/Users/alfredcarro/Workspace/Personal/ModernLoginUI-main/ios/Pods/FirebaseCoreInternal/FirebaseCore/Internal/Sources/HeartbeatLogging/HeartbeatStorage.swift"
+  : [1672664021, 401317596]
+  ? "/Users/alfredcarro/Workspace/Personal/ModernLoginUI-main/ios/Pods/FirebaseCoreInternal/FirebaseCore/Internal/Sources/HeartbeatLogging/HeartbeatsBundle.swift"
+  : [1672664021, 401407003]
+  ? "/Users/alfredcarro/Workspace/Personal/ModernLoginUI-main/ios/Pods/FirebaseCoreInternal/FirebaseCore/Internal/Sources/HeartbeatLogging/HeartbeatsPayload.swift"
+  : [1672664021, 401575088]
+  ? "/Users/alfredcarro/Workspace/Personal/ModernLoginUI-main/ios/Pods/FirebaseCoreInternal/FirebaseCore/Internal/Sources/HeartbeatLogging/RingBuffer.swift"
+  : [1672664021, 400980472]
+  ? "/Users/alfredcarro/Workspace/Personal/ModernLoginUI-main/ios/Pods/FirebaseCoreInternal/FirebaseCore/Internal/Sources/HeartbeatLogging/Storage.swift"
+  : [1672664021, 400759220]
+  ? "/Users/alfredcarro/Workspace/Personal/ModernLoginUI-main/ios/Pods/FirebaseCoreInternal/FirebaseCore/Internal/Sources/HeartbeatLogging/StorageFactory.swift"
+  : [1672664021, 401662588]
+  ? "/Users/alfredcarro/Workspace/Personal/ModernLoginUI-main/ios/Pods/FirebaseCoreInternal/FirebaseCore/Internal/Sources/HeartbeatLogging/WeakContainer.swift"
+  : [1672664021, 401484012]
+  ? "/Users/alfredcarro/Workspace/Personal/ModernLoginUI-main/ios/Pods/FirebaseCoreInternal/FirebaseCore/Internal/Sources/HeartbeatLogging/_ObjC_HeartbeatController.swift"
+  : [1672664021, 401062011]
+  ? "/Users/alfredcarro/Workspace/Personal/ModernLoginUI-main/ios/Pods/FirebaseCoreInternal/FirebaseCore/Internal/Sources/HeartbeatLogging/_ObjC_HeartbeatsPayload.swift"
+  : [1672664021, 401230812]

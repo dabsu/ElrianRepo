@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "662719735520",
+    "project_id": "my-firebase-project-4b6a5",
+    "storage_bucket": "my-firebase-project-4b6a5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:662719735520:android:3a4fe9734023bf63b51285",
+        "android_client_info": {
+          "package_name": "com.example.modernlogintute"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "662719735520-jmucmu35s7qp4rfs0lqjtfhi2rsrv3fo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAOQrtwz4pRFtQRd5OhOnMIEpM8PRGLGwQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "662719735520-jmucmu35s7qp4rfs0lqjtfhi2rsrv3fo.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

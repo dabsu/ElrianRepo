@@ -1,0 +1,14 @@
+{
+  'version': 0,
+  'use-external-names': 'false',
+  'case-sensitive': 'false',
+  'roots': [{
+    'type': 'directory',
+    'name': "/Users/alfredcarro/Workspace/Personal/ModernLoginUI-main/build/ios/Debug-iphonesimulator/FirebaseCoreInternal/FirebaseCoreInternal.framework/Modules"
+    'contents': [{
+      'type': 'file',
+      'name': "module.modulemap",
+      'external-contents': "/Users/alfredcarro/Workspace/Personal/ModernLoginUI-main/ios/build/Pods.build/Debug-iphonesimulator/FirebaseCoreInternal.build/unextended-module.modulemap",
+    }]
+  }]
+}
